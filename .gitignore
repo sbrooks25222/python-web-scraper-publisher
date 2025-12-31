@@ -1,0 +1,8 @@
+# Generated outputs
+output/*
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
